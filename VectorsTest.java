@@ -85,6 +85,6 @@ public class VectorsTest {
         assertEquals(0, Vectors.scalarMultiplication(new int[]{5, 9}, new int[]{-9, 5}));
         assertEquals(100, Vectors.scalarMultiplication(new int[]{6, 8}, new int[]{6, 8}));
     }
-
+//테스트테스트
     
 }
